@@ -6,7 +6,7 @@ Then verify LoginPage title
 When enter the 'mamidisrisaiteja@gmail.com' and 'Srisai@90'  and click submit button
 #Then user able to navigate to home page from loginpage
 
-
+#Hi this is my first commit
  Examples:
      | username | password |
      | mamidisrisaiteja@gmail.com | Srisai@90 |
